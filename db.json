@@ -1,0 +1,22 @@
+{
+    "user": {
+      "user_id": 758556,
+      "passportSeries": "AA",
+      "passportNumber": "4938367",
+      "pinfl": "41610800580089",
+      "passportType": 6,
+      "phone": "998935191815",
+      "region": 26,
+      "localRegion": 202,
+      "address": "УЗБЕКИСТОН МФЙ, НУКУС КЎЧАСИ,  uy:17-46",
+      "isAuto": true,
+      "inn": "493126829",
+      "patronymic": "EDUARDOVNA",
+      "gender": "2",
+      "name": "LARISA",
+      "surname": "LI",
+      "birthDate": "1980-10-16",
+      "issueDocDate": "2014-04-03",
+      "expiredDocDate": "2024-04-02"
+    }
+  }
